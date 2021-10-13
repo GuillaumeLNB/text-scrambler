@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* GLNB <guillaume.le-noe-bienvenu@irisa.fr>
+* GLNB <guillaume.lenoe.bienvenu@gmail.com>
