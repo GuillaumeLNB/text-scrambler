@@ -107,7 +107,7 @@ class Scrambler:
         self.unicode_dict = {}
         file = open(self.confusables_file, encoding="utf-8")
         ls_lines_confusable = []
-        for _ in range(12):
+        for _ in range(32):
             file.readline()
         for line in file:
             if line.startswith("#"):
