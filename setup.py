@@ -34,6 +34,7 @@ setup(
     author_email="glnb.dev@gmail.com",
     description="text_scrambler, a tool to scramble texts",
     long_description=long_description,
+    long_description_content_type="rst",
     install_requires=install_requires,
     project_urls={
         "Documentation": "https://text-scrambler.readthedocs.io",
