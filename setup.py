@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="text_scrambler",
-    version="0.1.0",
+    version="0.1.3",
     packages=[
         "text_scrambler",
     ],
@@ -24,4 +24,6 @@ setup(
         "Documentation": "https://text-scrambler.readthedocs.io",
         "Source": "https://github.com/GuillaumeLNB/text-scrambler",
     },
+    include_package_data=True,
+    package_data={"text_scrambler": ["txt_files/confusablesSummary.txt"]},
 )
