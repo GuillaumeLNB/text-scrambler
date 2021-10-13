@@ -105,7 +105,7 @@ class Scrambler:
         """return a dict of the unicode confusable given
         the self.confusables_file"""
         self.unicode_dict = {}
-        file = open(self.confusables_file)
+        file = open(self.confusables_file, encoding="utf-8")
         ls_lines_confusable = []
         for _ in range(12):
             file.readline()
