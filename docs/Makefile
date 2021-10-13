@@ -9,7 +9,7 @@ BUILDDIR      = ../build/sphinx/
 AUTODOCDIR    = api
 AUTODOCBUILD  = sphinx-apidoc
 PROJECT       = text-scrambler
-MODULEDIR     = ../src/text_scrambler
+MODULEDIR     = ../text_scrambler
 
 # User-friendly check for sphinx-build
 ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $?), 1)
@@ -60,6 +60,7 @@ $(AUTODOCDIR): $(MODULEDIR)
 doc-requirements: $(AUTODOCDIR)
 
 html: doc-requirements
+	cat ../README.rst contents.rst >index.rst
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
