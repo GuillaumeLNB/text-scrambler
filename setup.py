@@ -1,6 +1,6 @@
 from setuptools import setup
 
-with open("README.rst") as f:
+with open("README.rst", encoding="utf-8") as f:
     long_description = f.read()
 
 with open("requirements.txt") as f:
@@ -18,7 +18,7 @@ setup(
     author_email="glnb.dev@gmail.com",
     description="text_scrambler, a tool to scramble texts",
     long_description=long_description,
-    long_description_content_type="rst",
+    long_description_content_type="text/x-rst",
     install_requires=install_requires,
     project_urls={
         "Documentation": "https://text-scrambler.readthedocs.io",
