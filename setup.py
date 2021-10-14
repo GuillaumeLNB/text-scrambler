@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="text_scrambler",
-    version="0.1.3",
+    version="0.1.4",
     packages=[
         "text_scrambler",
     ],
