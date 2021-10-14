@@ -6,29 +6,12 @@ import unittest
 
 sys.path.insert(0, os.path.join("..", "text_scrambler"))
 
-import dictionaries
 from text_scrambler import Scrambler
 
 
 class TestScrambler(unittest.TestCase):
     s = Scrambler()
     text = string.ascii_lowercase
-
-    def test_length_latin_dict(self):
-        self.assertTrue(len(dictionaries.dic_latin_2_greek) > 10)
-        self.assertTrue(len(dictionaries.dic_latin_2_cyrillic) > 10)
-        self.assertTrue(len(dictionaries.dict_latin) > 10)
-
-    def test_latin_chars(self):
-        for dict_ in [
-            dictionaries.dic_latin_2_greek,
-            dictionaries.dic_latin_2_cyrillic,
-        ]:
-            for char in self.text:
-                if char not in dict_:
-                    continue
-                for different_letter in dict_[char]:
-                    self.assertNotEqual(char, different_letter)
 
     def test_wrong_level(self):
         for wrong_level in [0, 5, 10, str, "hard"]:
@@ -45,6 +28,10 @@ class TestScrambler(unittest.TestCase):
         for level in [1, 2, 3, 4]:
             res = self.s.generate(self.text, n=n_times, level=level)
             self.assertEqual(len(set(res)), len(res))
+
+    def test_str(self):
+        self.assertIsInstance(str(self.s), str)
+        self.assertNotEqual(str(self.s), str(self.s))
 
 
 unittest.main()
