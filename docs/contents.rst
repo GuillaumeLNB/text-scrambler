@@ -1,4 +1,3 @@
-
 Contents
 ========
 
@@ -11,8 +10,6 @@ Contents
    Module Reference <api/modules>
 
 
-Indices and tables
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`
