@@ -39,18 +39,10 @@ Full documentation at https://text-scrambler.readthedocs.io
 Installation
 ~~~~~~~~~~~~
 
-with pip:
-
     .. code:: bash
 
         pip install text-scrambler
 
-
-from source:
-
-    .. code:: bash
-
-        pip install git+git://github.com/GuillaumeLNB/lexicons_builder
 
 
 Quickstart
