@@ -14,9 +14,13 @@ Replacing randomly the Latin characters by Greek or Cyrillic letters and adding 
 
 `Herman Melville (August 1, 1819 – September 28, 1891) was an American novelist, short story writer, and poet of the American Renaissance period. Among his best-known works are Moby-Dick (1851), Typee (1846), a romanticized account of his experiences in Polynesia, and Billy Budd, Sailor, a posthumously published novella. Although his reputation was not high at the time of his death, the centennial of his birth in 1919 was the starting point of a Melville revival and Moby-Dick grew to be considered one of the great American novels.`
 
-**Srambled text (looking the same but totally different):**
+**Srambled text with zw(n)j added (looking the same but totally different):**
 
-`Неrman Μelvillе (Аugust 1, 1819 – Sерtеmbеr 28, 1891) waѕ аn Amerіcan nοvеliѕt, shοrt stоry wrіtеr, and рoеt οf thе Amеriсаn Rеnaissаnсе реrіοd. Amοng his bеѕt-knοwn works arе Мoby-Diсk (1851), Τyрee (1846), а romаntiсized aсcοunt of his ехperienсеs in Pоlynеѕіа, and Віlly Βudd, Sаilоr, а роѕthumοuѕly рublіshed nοvella. Аlthοugh hiѕ rеputatiоn wаs nоt hіgh аt the tіme оf hіѕ dеath, thе centеnnіаl οf hіѕ bіrth іn 1919 was thе startіng pοint οf a Мelvillе rеvіval аnd Mοby-Dісk grеw to be cоnsіdеrеd оne οf thе grеаt Αmerican novеls.`
+`H‍e‌r‌m‍a‍n‌ ‌M‍e‌l‌v‌i‍l‍l‍e‍ ‌(‍A‍u‍g‌u‌s‍t‌ ‌1‌,‌ ‍1‍8‌1‍9‌ ‌–‌ ‌S‍e‌p‌t‌e‍m‍b‍e‌r‌ ‍2‌8‍,‍ ‍1‍8‌9‌1‍)‌ ‌w‍a‌s‍ ‌a‍n‌ ‍A‌m‌e‌r‌i‌c‍a‌n‍ ‍n‌o‍v‌e‍l‌i‌s‍t‍,‍ ‌s‍h‌o‍r‍t‌ ‍s‌t‌o‌r‍y‍ ‌w‌r‍i‌t‍e‌r‌,‌ ‍a‍n‍d‍ ‌p‌o‌e‌t‌ ‍o‌f‍ ‌t‌h‍e‌ ‌A‍m‌e‍r‌i‍c‌a‌n‍ ‍R‍e‌n‍a‍i‍s‍s‌a‌n‍c‌e‍ ‌p‍e‌r‍i‌o‌d‌.‍ ‍A‌m‍o‌n‍g‍ ‍h‍i‌s‍ ‌b‍e‌s‍t‍-‌k‍n‌o‍w‌n‍ ‌w‍o‌r‍k‍s‌ ‍a‌r‍e‍ ‍M‍o‌b‍y‌-‍D‌i‍c‍k‍ ‍(‌1‍8‌5‍1‍)‍,‌ ‌T‍y‌p‍e‌e‌ ‍(‌1‍8‌4‌6‍)‌,‍ ‌a‌ ‍r‌o‌m‍a‌n‍t‌i‍c‍i‌z‌e‍d‌ ‍a‍c‌c‍o‌u‍n‌t‌ ‍o‌f‌ ‍h‌i‍s‌ ‍e‍x‍p‍e‌r‌i‌e‌n‍c‌e‍s‌ ‌i‍n‍ ‍P‍o‌l‌y‌n‍e‍s‌i‍a‌,‍ ‍a‍n‍d‍ ‍B‍i‍l‍l‌y‌ ‌B‌u‌d‍d‌,‍ ‍S‍a‌i‌l‌o‍r‌,‍ ‍a‌ ‍p‌o‌s‍t‌h‍u‍m‌o‍u‌s‍l‍y‌ ‌p‍u‌b‍l‍i‌s‌h‍e‌d‍ ‍n‌o‌v‌e‌l‍l‍a‍.‌ ‍A‍l‍t‍h‌o‍u‍g‍h‍ ‍h‌i‍s‌ ‌r‍e‌p‍u‍t‌a‍t‍i‌o‌n‍ ‌w‍a‌s‌ ‍n‌o‌t‌ ‍h‌i‌g‍h‌ ‍a‌t‌ ‌t‌h‌e‌ ‌t‍i‍m‍e‍ ‍o‍f‌ ‌h‌i‍s‍ ‌d‌e‍a‍t‍h‌,‌ ‌t‍h‌e‍ ‌c‍e‌n‍t‌e‍n‌n‌i‍a‍l‌ ‍o‍f‌ ‍h‍i‌s‍ ‍b‍i‌r‌t‍h‍ ‌i‌n‌ ‍1‌9‍1‌9‌ ‌w‍a‍s‍ ‌t‌h‌e‍ ‌s‌t‍a‍r‌t‍i‍n‍g‍ ‍p‍o‌i‌n‌t‌ ‍o‌f‌ ‍a‌ ‍M‍e‌l‌v‌i‍l‌l‌e‍ ‌r‍e‍v‌i‌v‍a‍l‍ ‌a‌n‍d‌ ‍M‍o‍b‌y‍-‌D‌i‌c‌k‍ ‍g‍r‌e‌w‍ ‌t‌o‌ ‌b‍e‍ ‌c‌o‌n‍s‌i‌d‌e‍r‌e‌d‌ ‌o‍n‍e‌ ‍o‌f‌ ‍t‌h‌e‍ ‍g‍r‌e‍a‌t‌ ‌A‌m‍e‌r‌i‍c‍a‍n‍ ‍n‌o‌v‌e‍l‌s‍.`
+
+**Srambled text with latin letter replaced with their Cyrillic/Greek equivalent (looking the same but totally different):**
+
+`Неrman Melvіllе (Αuguѕt 1, 1819 – Septеmber 28, 1891) wаѕ an Аmеrісаn nοvеlist, shοrt story writеr, and poеt оf the Americаn Rеnaіssanсe pеriоd. Amоng his bеst-known works arе Μoby-Dісk (1851), Τyреe (1846), a rоmаnticizеd accоunt оf hіs eхрerіencеs in Ρоlynеѕiа, аnd Вilly Budd, Ѕаіlοr, а pοsthumously рublіshed nоvеllа. Although hiѕ reputation was nοt hіgh at thе tіme οf hіѕ dеаth, the сentennіаl оf hіs bіrth in 1919 waѕ thе stаrting point οf a Μelville revival and Μοby-Dick grew tο bе соnѕidеrеd οne оf the great American novels.`
 
 
 It is worth to notice that search engines can't find the original webpage (as free online plagiarism checkers). Searching for **Μelvillе** (copy-paste it) on Google doesn't return any match, though the original word **Melville** does.
@@ -26,6 +30,21 @@ Using all of the confusable characters of unicode (see [the unicode confusable c
 
 𝚮‍𝒆‌𝕣‍m‍𝓪‍n‍ ‍𝝡‍ҽ‌𝟙‍∨‍𝘪‍𝘐‌𞺀‍𝓮‍ ‍﴾‍𝓐‍𝞄‍𝓰‍ꞟ‌𑣁‍t‌ ‌1‌,‌ ‍1‍8‌1‍Ⳋ‌ ‍–‍ ‌Ꮥ‌𝖊‍𝞺‌𝐭‍𝖾‌m‍Ƅ‌𝔢‌𝔯‌ ‍Ƨ‍𐌚‌ꓹ‌ ‍1‍ଃ‌𝟿‍1‍］‌ ‍𝘸‍𝐚‍𝚜‍ ‍𝖺‌𝔫‍ ‍Α‍m‌ℯ‌𝔯‌𝓲‌ꮯ‌𝒶‌𝓷‌ ‍n‌ം‍𝝼‍𝔢‍𝙸‌ｉ‌s‌𝖙‍؍‍ ‍𐑈‌𝖍‌ꬽ‍ꭇ‍𝓽‍ ‌𝓼‌𝖙‍ⲟ‌r‌𑣜‍ ‍𝐰‌𝓻‌і‍𝒕‍е‍𝕣‍٫‍ ‍α‌𝒏‌𝕕‍ ‍𝙥‌𝜊‍ｅ‍𝕥‍ ‍ﮨ‍f‌ ‌𝘵‍ｈ‍𝗲‌ ‌Α‌m‍𝐞‍𝐫‌ꙇ‌𝒸‍ａ‍n‌ ‍𖼵‍𝘦‍𝑛‌𝐚‌𝒾‌𝑠‌𑣁‌𝜶‌𝕟‌𝗰‌𝒆‍ ‌𝟈‍𝖾‌r‍⍳‌ﮫ‌ᑯ‌𐩐‌ ‍Α‌m‍ｏ‍𝓃‌𝖌‍ ‌𝓱‌Ꭵ‌𝐬‍ ‌Ꮟ‍𝙚‌𝗌‍𝕥‌۔‍𝖐‌𝖓‌ｏ‌𝑤‍𝐧‍ ‌𑜎‌о‌ꮁ‍𝐤‌𝗌‍ ‌𝜶‍𝗿‍𝖾‌ ‌𝕸‍໐‍Ꮟ‍𝙮‍Ⲻ‍𝖣‍𝑖‍𝔠‌𝒌‌ ‍〔‍1‌𝟪‌5‍1‍〕‌ꓹ‌ ‌𝖳‍𝗒‌𝓹‍𝘦‌𝚎‌ ‌〔‍1‍🯸‌𝟜‌6‍❳‍ꓹ‌ ‍𝖆‍ ‌𝕣‌ꬽ‍m‍⍺‌𝘯‌𝘵‌і‌ꮯ‌𝛊‍𝐳‍ⅇ‍𝙙‍ ‍𝕒‌ｃ‍ᴄ‌ჿ‌𝚞‍𝚗‌𝐭‍ ‍𞹤‍𝔣‍ ‍𝚑‌ӏ‌𝓈‌ ‍𝕖‍𝑥‌𝙥‍𝔢‍𝗿‍ꙇ‌e‌𝓷‍ｃ‌℮‍ꮪ‌ ‌𝖎‍𝚗‍ ‌𝙋‍𝘰‌Ӏ‍γ‌𝓷‍𝖾‍𝔰‍𝚒‌𝗮‌؍‍ ‌𝛼‍𝔫‍𝖉‌ ‍𝔅‌Ꭵ‌𝖑‌l‌𝔂‌ ‌𝓑‍𝐮‌𝖉‌𝒹‌‚‌ ‍Ꮥ‌а‌ꙇ‌𝘭‍𝝈‍𝗋‌,‍ ‌α‍ ‍𝑝‍ꬽ‍𐑈‍𝓽‌һ‍𝛖‍m‍𞺄‌ᴜ‍𝔰‍𝗹‌𝑦‍ ‌𝖕‍ᴜ‍Ꮟ‍𝝞‌𝜄‌s‍ｈ‍𝗲‍ꓒ‌ ‌𝓃‍𝗈‌𝓋‍𝒆‌𐌉‌ו‌𝞪‍꘎‍ ‍𖽀‍𝜤‍𝑡‍һ‍𝙤‍𝑢‌ց‍𝘩‌ ‌𝒉‌ι‍ѕ‌ ‌𝖗‌𝒆‌𝛠‍𝚞‍𝐭‌𝓪‌𝙩‌ɪ‍ﮨ‍𝓷‍ ‌𑜊‍𝖺‍s‌ ‍𝘯‍𞹤‍𝚝‌ ‌𝐡‌𝜄‌ᶃ‍𝕙‍ ‍𝖆‍𝘁‍ ‌𝙩‍ｈ‍ꬲ‌ ‍𝓉‌𝔦‍m‍е‍ ‌𝞼‍ẝ‍ ‍ℎ‌ı‍ƽ‍ ‌𝐝‌𝕖‍𝖆‍𝚝‌𝔥‌ꓹ‌ ‍𝙩‌Ꮒ‌ꬲ‍ ‌𝗰‌ⅇ‌𝗻‌𝔱‍𝖊‌𝖓‌n‍𝛊‍𝙖‌𐌠‌ ‍ﻫ‍𝘧‌ ‌𝒽‍𝖎‍𝘴‍ ‍b‍ı‌𝚛‌𝓽‌𝘩‌ ‌ｉ‌𝐧‍ ‍1‍𑣖‌1‍𝟵‌ ‍𑜏‌α‌𝗌‌ ‌𝗍‌𝐡‌ҽ‍ ‍𝕤‍𝑡‍𝛂‌r‍𝓉‍Ꭵ‌𝚗‍ᶃ‍ ‌𝛒‍ס‌𝜾‍𝗻‌𝖙‌ ‌𝜊‌𝖋‌ ‍𝙖‌ ‍ꓟ‍𝙚‌ⵏ‌𝛎‍˛‍І‍𝘭‍ҽ‌ ‌𝔯‍𝐞‌ｖ‌𝞲‌𝚟‌𝖆‍l‍ ‍ɑ‍𝘯‍𝖽‍ ‍𝑀‌ං‌𝒃‍𝚢‌‐‍𝐷‍ͺ‌𝚌‌𝗸‍ ‌𝓰‌ꭈ‌е‌ᴡ‌ ‍𝓉‌ﮭ‌ ‌ᑲ‍ℯ‍ ‌ｃ‍ℴ‍𝙣‌𝔰‌𑣃‍d‍ⅇ‍𝔯‌℮‌ⅾ‍ ‍ﻬ‌𝓃‌℮‍ ‌੦‌𝙛‌ ‍𝙩‌𝔥‍𝔢‍ ‌𝚐‍ꮁ‌ℯ‍𝜶‍𝙩‍ ‍𝞐‍m‍𝘦‍ᴦ‌𝜾‌𝙘‌𝕒‍𝐧‍ ‍𝓃‌ｏ‌𝓿‌ⅇ‍|‍𝒔‍ꓸ
 
+Installation
+~~~~~~~~~~~~
+
+with pip:
+
+    .. code:: bash
+
+        pip install text-scrambler
+
+
+from source:
+
+    .. code:: bash
+
+        pip install git+git://github.com/GuillaumeLNB/lexicons_builder
 
 
 API
