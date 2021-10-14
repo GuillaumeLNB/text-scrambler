@@ -9,8 +9,10 @@ __author__ = "GLNB"
 __copyright__ = "GLNB"
 __license__ = "mit"
 
-
-from .dictionaries import invisible_chars, dict_latin
+try:
+    from .dictionaries import invisible_chars, dict_latin
+except ImportError:
+    from dictionaries import invisible_chars, dict_latin
 
 __location__ = os.path.join(
     os.getcwd(), os.path.dirname(inspect.getfile(inspect.currentframe()))
@@ -37,7 +39,7 @@ class Scrambler:
         >>> print(len(text), len(text_1))
         18 35
         >>> text_2 = scr.scramble(text, level=2)
-        >>> # replacing some latin letters by their cyrilic/greek equivalent
+        >>> # replacing some latin letters by their cyrillic/greek equivalent
         >>> print(text_2)
         Тhіѕ iѕ an еxample
         >>> for char, char_2 in zip(text, text_2):
@@ -88,7 +90,7 @@ class Scrambler:
         self._parse_unicode_file()
 
     def __str__(self):
-        return str(self.scramble("<__main__.Scrambler object>", level=4))
+        return self.scramble("<__main__.Scrambler object>", level=4)
 
     __repr__ = __str__
 
@@ -135,9 +137,9 @@ class Scrambler:
 
         1: insert non printable characters within the text
 
-        2: replace some latin letters to their Greek or Cyrilic equivalent
+        2: replace some latin letters to their Greek or Cyrillic equivalent
 
-        3: insert non printable characters and change the some latin letters to their Greek or Cyrilic equivalent
+        3: insert non printable characters and change the some latin letters to their Greek or Cyrillic equivalent
 
         4: insert non printable chraracters change all possible letter to a randomly picked unicode letter equivalent
 
